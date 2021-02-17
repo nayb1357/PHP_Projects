@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+/* CSS Document */
+
+.head{
+    background: darkgray;
+    text-align: center;
+    border-style: solid;
+    border-color: darkcyan;
+    width:30%;
+    padding: 0.5%;
+} 
+
+.main {
+    background: antiquewhite;
+    border-style: solid;
+    border-color: darkcyan;
+    width:30%;
+    padding: 0.5%;
+}
+
+.calculation {
+    background: darkgray;
+    text-align: right;
+    border-style: solid;
+    border-color: darkcyan;
+    width:30%;
+    padding: 0.5%; 
+}
+.outside {    
+    color: darkslateblue;
+}
+a{
+    color:blue;
+}
+

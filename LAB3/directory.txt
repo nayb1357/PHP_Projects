@@ -1,0 +1,7 @@
+Binay,Paudyal,bpaudyal@masonlive.gmu.edu,000-000-1234,draco dr,Burke,VA,22015
+Daniel,Garrison,dgarrison@gmu.edu,856-555-1212,12 West Ave,Eastover,AL,11111
+Jhapa,Nepal,gnaks@gmail.com,000-000-0000,paudyalsdfas,ksjdflksj,VA,22020
+Jhapa,Nepal,sdhfkjsh@gmail.com,000-000-0000,jshdfjkhs,sjfjkh,AL,22222
+Bnay,Poudel,sjhdfk@jkahdj.cin,000-000-0000,sdjhfkjshdf,ajkshdkjh,CO,00099
+Bnaya,Poudel,sjhdfk@jkahdj.cin,000-000-0000,sdjhfkjshdf,ajkshdkjh,CO,00099
+Brisha,Uprety,randomeemail@gmail.com,567-830-9876,numbers,random,HI,random

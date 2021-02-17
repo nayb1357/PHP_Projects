@@ -1,0 +1,98 @@
+@charset "UTF-8";
+
+/* CSS Document */
+.sidebar1 {
+    display: block;
+    border: 1px solid blue;
+    background-color: darkcyan;
+    padding: 10px;
+    width: 290px;
+    text-align: left;
+    overflow: auto;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    height: 1036px;
+    
+}
+
+.StdMain {
+    display: block;
+    border: 1px solid red;
+    background-color: bisque;
+    padding: 15px;
+    width: 500px;
+    text-align: center;
+    position: absolute;
+    left: 315px;
+    top: 0px;
+    
+}
+.ClsMain {
+    display: block;
+    border: 1px solid red;
+    background-color: bisque;
+    padding: 15px;
+    width: 500px;
+    text-align: center;
+    position: absolute;
+    left: 847px;
+    top: 0px;
+}
+
+.cen_left{
+    position: absolute;
+    left: 315px;
+    top: 125px;
+}
+.Pic {
+    display: block;
+    border: 1px solid Black;
+    background-color: floralwhite;
+    padding: 15px;
+    width: 430px;
+}
+img{
+    max-height: 500px;
+}
+
+.grade_display {
+    display: block;
+    position: absolute;
+    left: 315px;
+    top:125px;
+}
+.grade_cal {
+    display: block;
+    position: absolute;
+    left: 315px;
+    top:125px;
+}
+.SumPart {
+    display: block;
+    border: 1px solid darkblue;
+    background-color: skyblue;
+    padding: 15px;
+    width: 430px;
+}
+.Pdetail {
+    display: block;
+    color: aliceblue;
+    border: 1px solid purple;
+    background-color: Black;
+    padding: 30px;
+    width: 537px;
+    height: 871px;
+    position: absolute;
+    left: 780px;
+    top: 125px;
+}
+    
+.footer {
+	text-align: center;
+	background-color: #CCC;
+    width: 1380px; 
+    position: absolute;
+    top: 1060px;
+    left: 0px;
+}

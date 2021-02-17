@@ -1,0 +1,3 @@
+1. What is the default extension that most Web servers use to process PHP scripts?(Chapter 1, Q1, pg 65) : A) .php, B) .html, C) .xhtml, D) .ini
+2. Which of the following functions removes the first element from the beginning of an array?(Chapter 6, Q1, pg 366) : A) array_shift(), B) array_unshift(), C) array_push(), D) array_pop()
+3. Which of the following functions returns the length of a string? (Chapter 3, Q8, pg 173) : A) strlen(), B) strspn, C) substr_count(), D) strcspn()
